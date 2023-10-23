@@ -2,6 +2,7 @@
 Components in Bloc Application
 
 Ganache- A local Ethereum blockchain.
+
 Web3 JS- For the application to be able to communicate to the blockchain.
 Bootstrap- For the application’s front end.
 Solidity- For compilation smart contract.
